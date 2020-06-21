@@ -1,0 +1,18 @@
+# ===================================================================
+#                   Swagger configuration
+# ===================================================================
+
+swagger:
+  title: 'Hello World'
+  description: 'Hello World Service'
+  contact:
+    name: 'Sune Thomas Poulsen'
+    url: ''
+    email: 'sunepoulsen@gmail.com'
+  license: 'Apache License Version 2.0'
+  licenseUrl: 'https://github.com/springfox/springfox/blob/master/LICENSE'
+  version: '2.0'
+
+logging:
+  level:
+    dk.sunepoulsen.tech.enterprise.labs: INFO
