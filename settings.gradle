@@ -1,2 +1,4 @@
 rootProject.name = 'tel-helloworld-backend'
 
+include 'tel-helloworld-backend-client'
+
