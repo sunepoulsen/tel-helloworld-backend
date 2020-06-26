@@ -2,4 +2,6 @@ rootProject.name = 'tel-helloworld-backend'
 
 include 'tel-helloworld-backend-client'
 include 'tel-helloworld-backend-service'
+include 'component-tests'
+findProject(':component-tests')?.name = 'tel-helloworld-backend-component-tests'
 
